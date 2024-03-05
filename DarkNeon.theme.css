@@ -22,17 +22,17 @@
   --rgb-highlight: 0, 140, 255; /* The main highlight color */
   --rgb-background: 0, 0, 0; /* The main background color */
   --rgb-text: 170, 204, 238; /* The main text color */
-  --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
-  --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
-  --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
+  --rgb-close-button: 255, 0, 0; /* The main "close this" or "deny" color */
+  --rgb-online-color: 0, 255, 0; /* The color used in the "online" user status symbol */
+  --rgb-afk-color: 255, 255, 0; /* The color used in the "idle" user status symbol */
   --rgb-dnd-color: 255, 0, 0; /* The color used in the "do not disturb" user status symbol */
-  --rgb-streaming-color: 188, 19, 254; /* The color used in the "streaming X" user status symbol */
+  --rgb-streaming-color: 153, 0, 255; /* The color used in the "streaming X" user status symbol */
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: unset; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: url(https://github.com/OP-MapleSpace/.dotfiles/blob/main/wallpaper/SpaceAce.png); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */
-  --background-brightness: 100%; /* Changes the background images brightness */
+  --background-brightness: 50%; /* Changes the background images brightness */
 }
